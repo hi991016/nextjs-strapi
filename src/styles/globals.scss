@@ -1,0 +1,15 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fefefe;
+  color: #222;
+}
+
+hr {
+  margin: 0;
+  border-color: rgba($color: #000, $alpha: 0.1);
+}
